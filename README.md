@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @harmeenkhattra
-- 🌱 I’m currently learning computer programming, web and application development
+- 🌱 I’m currently learning computer programming, web and application development.
+- Techincal Skills: C, C++, JavaScript, HTML, CSS, Ajax, SQL, Oracle
 - 📫 How to reach me : harmeenkhattra26@gmail.com
 
 <!---
